@@ -5,13 +5,12 @@ This React application fetches the organizational chart from the backend and dis
 
 ## Technologies Used
 - React (JavaScript)
-- Axios (for HTTP requests)
 - OrgChart.js (for rendering organizational chart)
 
 ## Setup Instructions
 1. Clone the Repository
 ```
-git clone https://github.com/yourusername/orgchart-frontend.git
+git clone https://github.com/markbadillo/orgchart-frontend.git
 cd orgchart-frontend
 ```
 2. Install Dependencies. Install the required npm packages:
